@@ -33,7 +33,11 @@ Este repositorio contiene el trabajo colaborativo del grupo Re-Code de la tecnic
 
 | Integrante | Legajo |
 |------------|--------|
+<<<<<<< HEAD
 | Rossi Ivo  |  9872  |
 
 
 
+=======
+| Rossi Ivo | 9872 |
+>>>>>>> 2fb83dc6c7eba8c927a65963fcd755ca3ea6554f
